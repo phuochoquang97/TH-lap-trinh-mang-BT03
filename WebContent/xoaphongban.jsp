@@ -10,7 +10,6 @@
 <title> Xóa phòng ban </title>
 <style type="text/css">
 	form{
-		border : 1px solid black;
 		text-align : center;
 		align : center;
 	}

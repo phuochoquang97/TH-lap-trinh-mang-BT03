@@ -10,7 +10,6 @@
 <title>Insert title here</title>
 <style type="text/css">
 	form{
-		border : 1px solid black;
 		text-align : center;
 		align : center;
 	}
@@ -32,6 +31,7 @@
 		<table align="center" class="a">
 			<br>
 			<tr>
+				<br>
 				<td><%="No Result is matched!"%></td>
 			</tr>
 		</table>
